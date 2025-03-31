@@ -1,4 +1,4 @@
--- discord.gg/qtFvenDr
+-- discord.gg/AfcRjyTd
 
 
 shared.LoaderTitle = "Lemon Hub Loading....";
@@ -2678,9 +2678,9 @@ if game:GetService("ReplicatedStorage").Effect.Container:FindFirstChild("Respawn
 end
 v16.Home:AddButton({
     Title = "Discord",
-    Description = "Join To Get Free Premium Key And Script Updates",
+    Description = "Join To Get Key Free",
     Callback = function()
-        setclipboard("https://discord.gg/Lemon Hub");
+        setclipboard("https://discord.gg/AfcRjyTd");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
