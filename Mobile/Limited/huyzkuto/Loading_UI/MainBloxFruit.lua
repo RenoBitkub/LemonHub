@@ -314,7 +314,7 @@ v5:Destroy();
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Lemon Hub [ Premium ] Blox-Fruit",
-    SubTitle = "by VuaSipVuaBienThai",
+    SubTitle = "by  _huyz",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
